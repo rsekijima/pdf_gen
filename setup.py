@@ -32,7 +32,7 @@ def read_requirements(path):
 setup(
     name="pdf_gen",
     version=read("pdf_gen", "VERSION"),
-    description="Awesome pdf_gen created by rsekijima",
+    description="Compile images into a PDF file",
     url="https://github.com/rsekijima/pdf_gen/",
     long_description=read("README.md"),
     long_description_content_type="text/markdown",
