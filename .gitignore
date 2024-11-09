@@ -136,3 +136,6 @@ dmypy.json
 
 #project specific files
 images/
+*.build/
+*.dist/
+*.onefile-build/
