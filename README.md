@@ -4,7 +4,7 @@
 [![codecov](https://codecov.io/gh/rsekijima/pdf_gen/branch/main/graph/badge.svg?token=pdf_gen_token_here)](https://codecov.io/gh/rsekijima/pdf_gen)
 [![CI](https://github.com/rsekijima/pdf_gen/actions/workflows/main.yml/badge.svg)](https://github.com/rsekijima/pdf_gen/actions/workflows/main.yml)
 
-Project created for a business to compile images to PDF format.
+Compiles images to PDF format.
 
 ## Install it from PyPI
 
